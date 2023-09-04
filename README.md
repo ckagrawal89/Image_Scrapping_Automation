@@ -4,12 +4,12 @@ Image Scrapper is the tool which help us to extract the images from the differen
 
 ### Prerequisite:
 
-Google Chrome Version 116.0.5845.141"\n"
+Google Chrome Version 116.0.5845.141<br />
 If not available: ```https://www.google.com/chrome```
 
 ## Setup steps:
 
-1. Clone the Repository:
+1. Clone the Repository:<br />
    You can clone the Image Scrapper repository from Github using the following command:
    ```
    git clone https://github.com/ckagrawal89/Image_Scrapping_Automation/
@@ -18,13 +18,13 @@ If not available: ```https://www.google.com/chrome```
    ```
    cd Image_Scrapping_Automation
    ```
-3. Install the required dependencies:
+3. Install the required dependencies:<br />
    You can install the all required dependencies for the Image Scrapper using the following command:
    ```
    pip install -r requirements.txt
    ```
 
-4. Run the Scrapper:
+4. Run the Scrapper:<br />
    You can run the Image Scrapper using the following command:
    ```
    python WebScrapping1.0.py
