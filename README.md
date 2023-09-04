@@ -1,6 +1,6 @@
 # Image Scrapper
 
-Image Scrapper is the tool which help us to extract the images from the different search engines to our local disk. It currently fetch the images from the Google only. I created this automated solution to generate datasets for Machine-Learning models
+Image Scrapper is the tool that helps us to extract the images from the different search engines to our local disk. It currently fetches the images from Google only. I created this automated solution to generate datasets for Machine-Learning models
 
 ### Prerequisite:
 
@@ -19,7 +19,7 @@ If not available: ```https://www.google.com/chrome```
    cd Image_Scrapping_Automation
    ```
 3. Install the required dependencies:<br />
-   You can install the all required dependencies for the Image Scrapper using the following command:
+   You can install all the required dependencies for the Image Scrapper using the following command:
    ```
    pip install -r requirements.txt
    ```
@@ -27,5 +27,5 @@ If not available: ```https://www.google.com/chrome```
 4. Run the Scrapper:<br />
    You can run the Image Scrapper using the following command:
    ```
-   python WebScrapping1.0.py
+   python main.py
    ```
